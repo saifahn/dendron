@@ -842,6 +842,7 @@ export enum SeedBrowserMessageType {
 
 export enum ConfigureUIMessageEnum {
   "onUpdateConfig" = "onUpdateConfig",
+  "openDendronConfigYaml" = "openDendronConfigYaml",
 }
 
 export enum GraphThemeEnum {
