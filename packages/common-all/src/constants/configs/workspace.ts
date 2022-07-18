@@ -181,7 +181,7 @@ export const WORKSPACE: DendronConfigEntryCollection<DendronWorkspaceConfig> = {
   },
   enableHandlebarTemplates: {
     label: "Enable handlebar style templates",
-    desc: "",
+    desc: "Enable handlebar style templates",
   },
   enableRemoteVaultInit: {
     label: "Enable Remote Vault Init",
