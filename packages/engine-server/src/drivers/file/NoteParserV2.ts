@@ -312,7 +312,6 @@ export class NoteParserV2 {
             note,
             noteDicts,
             createStubs: true,
-            wsRoot,
           });
           changeEntries = changeEntries.concat(changed);
         }
